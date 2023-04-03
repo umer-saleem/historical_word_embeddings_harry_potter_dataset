@@ -21,3 +21,6 @@ The extracted embeddings were analyzed using various techniques. The word simila
 
 ## Results
 The results of the analysis showed that the word embeddings were able to capture the meaning and relationships between words in the Harry Potter movies data. The similarity between the words of the scripts from characters such as "Harry", "Ron", "Hermione", "Dumbledore", and "Hagrid" was high.
+
+## Conclusion
+Word embedding analysis is a powerful technique for understanding the meaning and relationships between words in a text. This project showed that word embeddings can be trained on Harry Potter movies data, and can capture the meaning and relationships between the words from different characters in the movies. The results can be used for various applications such as sentiment analysis, recommendation systems, and natural language processing.
