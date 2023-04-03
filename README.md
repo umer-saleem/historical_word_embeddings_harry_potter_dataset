@@ -11,8 +11,10 @@ The following libraries need to be installed for the successful execution of the
 1. Pandas
 2. Numpy
 3. Matplotlib
-4. Scikit-learn
-5. TensorFlow
+4. NLTK
+5. Gensim
+6. pyLDAvis
+7. scikit-learn
 
-Analysis of Word Similarity and Relationship
-The trained embeddings were analyzed using various techniques. The word similarity was calculated using the cosine similarity between the vectors. The relationship between words was analyzed using the nearest neighbors and clustering techniques. The results were visualized using plots and heatmaps.
+## Analysis of Word Similarity and Relationship
+The extracted embeddings were analyzed using various techniques. The word similarity was calculated using the cosine and jaccard similarity between the vectors. The results were visualized using 2D matrixes and heatmap plots.
