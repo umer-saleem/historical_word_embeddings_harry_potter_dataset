@@ -18,3 +18,6 @@ The following libraries need to be installed for the successful execution of the
 
 ## Analysis of Word Similarity and Relationship
 The extracted embeddings were analyzed using various techniques. The word similarity was calculated using the cosine and jaccard similarity between the vectors. The results were visualized using 2D matrixes and heatmap plots.
+
+## Results
+The results of the analysis showed that the word embeddings were able to capture the meaning and relationships between words in the Harry Potter movies data. The similarity between the words of the scripts from characters such as "Harry", "Ron", "Hermione", "Dumbledore", and "Hagrid" was high.
