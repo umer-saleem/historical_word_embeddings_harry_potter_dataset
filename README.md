@@ -8,8 +8,11 @@ The data used for this project is the 3 CSV files of Harry Potter movies, which 
 ## Requirements
 The following libraries need to be installed for the successful execution of the code:
 
-Pandas
-Numpy
-Matplotlib
-Scikit-learn
-TensorFlow
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Scikit-learn
+5. TensorFlow
+
+Analysis of Word Similarity and Relationship
+The trained embeddings were analyzed using various techniques. The word similarity was calculated using the cosine similarity between the vectors. The relationship between words was analyzed using the nearest neighbors and clustering techniques. The results were visualized using plots and heatmaps.
