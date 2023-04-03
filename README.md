@@ -1,4 +1,5 @@
 # Historical Word Embeddings:Harry Potter Movies Dataset
+## Introduction
 This project is focused on analyzing the text data of Harry Potter movies using word embedding techniques. The goal is to learn the meaning of words in a high-dimensional space and analyze relationships between them. The project includes preprocessing of the text data, training of word embeddings, and analysis of word similarity, and relationship.
 
 # Data
